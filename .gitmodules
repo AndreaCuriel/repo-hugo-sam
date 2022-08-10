@@ -1,3 +1,6 @@
 [submodule "my-blog-sam/themes/hugo-theme-sam"]
 	path = my-blog-sam/themes/hugo-theme-sam
 	url = https://github.com/AndreaCuriel/hugo-theme-sam.git
+[submodule "my-blog-sam/public"]
+	path = my-blog-sam/public
+	url = https://github.com/AndreaCuriel/blog-sam.git
