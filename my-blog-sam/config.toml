@@ -7,6 +7,8 @@ theme                    = "hugo-theme-sam"    # pull in theme as hugo module
 # theme                  = "sam"                      # install theme locally (git clone or submodule)
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
+# Enable comments by entering your Disqus shortname
+disqusShortname          = "devcows"
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
