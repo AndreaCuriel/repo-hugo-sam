@@ -33,19 +33,19 @@ disqusShortname          = "devcows"
 
 [[params.mainMenu]]
     link = "posts"
-    text = "posts"
+    text = "Blog"
 
 [[params.mainMenu]]
     link = "gallery"
-    text = "gallery"
+    text = "Galería"
 
 [[params.mainMenu]]
     link = "portfolio"
-    text = "portfolio"
+    text = "Portafolio"
 
 [[params.mainMenu]]
     link = "about"
-    text = "who is sam?"
+    text = "Acerca de nosotros"
 
 [imaging]
     quality = 75
